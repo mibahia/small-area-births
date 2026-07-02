@@ -1,5 +1,9 @@
 # Small Area Births
 
+This is a project developed while I worked at the Greater London Authority (GLA).
+
+## Introduction
+
 Fertility rates are a key component of population estimates and projections. It represents, in combination with mortality rates, the natural change in populations. Age-specific fertility estimates are used to project future fertility rates and births, serving as inputs to the GLA's annual population projections. 
 
 This project develops fertility estimates for small geographic areas (e.g. MSOAs, wards), enabling the GLA Demography Team to produce flexible outputs for bespoke geographies.
