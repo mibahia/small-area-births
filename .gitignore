@@ -1,0 +1,14 @@
+# RStudio files
+.Rproj.user
+.Rhistory
+.RData
+.RDataTmp
+.Ruserdata
+pkg.lock
+
+# Mac file
+.DS_Store
+
+# Data
+data/*
+!data/gif
