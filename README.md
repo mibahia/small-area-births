@@ -17,10 +17,6 @@ Currently there are 2 scripts:
 
 Run `R/msoa_fertility_rates.R` to download the raw data and apply the Iterative Proportional Fitting algorithm across all geographies and years. After that you may run `R/ward_fertility_rates.R` to get births by wards (2022 boundaries).
 
-### Important note
-
-The `R/gla-only` directory contains scripts that rely on internal data. These are reserved exclusively for GLA use. 
-
 ## Exploring the results
 
 To interactively explore outputs (ASFR and TFR by MSOA and ward), run `app/app.R`
@@ -125,8 +121,8 @@ Because of the lack of available timeseries data, the fertility rates by ward is
 
 ## Authors
 
-* Ben Corr
 * Izabel Bahia
+* Ben Corr (Greater London Authority)
 
 ## Contact
 
